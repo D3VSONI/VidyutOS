@@ -1,0 +1,6 @@
+{
+  "name": "Aura — Grades 6–12 School Portal",
+  "description": "Cinematic interactive product experience for the next-generation unified school portal featuring Catch Me Up, Smart Lost & Found, and Peer Help Exchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
